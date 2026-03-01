@@ -1,0 +1,28 @@
+GHL: 
+
+Log In
+
+
+Clientes:
+- Paso 1: (CLICK DEL SWITCH)
+<span class="justify-center font-medium hl_text-overflow hl_switcher-loc-name">Click here to switch</span>
+- Paso 2: (CLICK DEL USUARIO)
+<input type="search" name="search" class="focus:ring-curious-blue-500 focus:border-curious-blue-500 block w-full pl-10 sm:text-sm border-gray-300 rounded-md" placeholder="Search for a sub-account" autocomplete="off" value="">
+- Paso 3: 
+EJEMPLO: <span class="hl_text-overflow w-full text-xs hl_location-title">(DUPLICATE - do not use) James Jones - Roofs by Maverick</span>
+
+WAIT 1 SEGUNDO
+
+- Paso 4: 
+<span class="hl_text-overflow sm:hidden md:hidden nav-title lg:block xl:block">Contacts</span>
+- Paso 5: 
+<span class="n-button__content"><svg data-v-17691316="" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true" class="w-4 h-4 mr-2"><path stroke-linecap="round" stroke-linejoin="round" d="M21 15v1.2c0 1.68 0 2.52-.327 3.162a3 3 0 01-1.311 1.311C18.72 21 17.88 21 16.2 21H7.8c-1.68 0-2.52 0-3.162-.327a3 3 0 01-1.311-1.311C3 18.72 3 17.88 3 16.2V15m14-5l-5 5m0 0l-5-5m5 5V3"></path></svg> Import<!----></span>
+- Paso 6: (BOTON NEXT)
+<button data-v-7b49d4f8="" data-v-91fb7c7c="" class="n-button n-button--primary-type n-button--small-type" tabindex="0" type="button" id="next-import-button-1" linkgray="false" style="--n-bezier: cubic-bezier(.4, 0, .2, 1); --n-bezier-ease-out: cubic-bezier(0, 0, .2, 1); --n-ripple-duration: .6s; --n-opacity-disabled: 0.5; --n-wave-opacity: 0.6; font-weight: 400; --n-color: #155EEF; --n-color-hover: #004EEB; --n-color-pressed: #155EEF; --n-color-focus: #004EEB; --n-color-disabled: #155EEF; --n-ripple-color: #155EEF; --n-text-color: #FFF; --n-text-color-hover: #FFF; --n-text-color-pressed: #FFF; --n-text-color-focus: #FFF; --n-text-color-disabled: #FFF; --n-border: 1px solid #155EEF; --n-border-hover: 1px solid #004EEB; --n-border-pressed: 1px solid #155EEF; --n-border-focus: 1px solid #004EEB; --n-border-disabled: 1px solid #155EEF; --n-width: initial; --n-height: 28px; --n-font-size: 14px; --n-padding: 0 10px; --n-icon-size: 18px; --n-icon-margin: 6px; --n-border-radius: 3px;"><!----><!----><span class="n-button__content">Next<!----></span><div aria-hidden="true" class="n-base-wave"></div><div aria-hidden="true" class="n-button__border"></div><div aria-hidden="true" class="n-button__state-border"></div></button>
+Paso 7: (INPUT DEL CSV)
+<div data-v-8c2136c4="" class="n-upload-dragger"><div data-v-8c2136c4="" class="hl-upload-icon"><svg data-v-8c2136c4="" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true" class="text-gray-600"><path stroke-linecap="round" stroke-linejoin="round" d="M8 16l4-4m0 0l4 4m-4-4v9m8-4.257A5.5 5.5 0 0016.5 7a.62.62 0 01-.534-.302 7.5 7.5 0 10-11.78 9.096"></path></svg></div><div data-v-8c2136c4=""><p data-v-91fb7c7c="" class="hl-text-xs-medium">Click to upload or drag and drop</p><p data-v-91fb7c7c="" class="hl-text-xs-regular">csv (max size 30MB)</p></div></div>
+
+WAIT 2 SEGUNDOS
+
+PASO 8: (
+
